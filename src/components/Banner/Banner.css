@@ -1,0 +1,5 @@
+.banner-bg {
+  display: flex;
+  max-width: 1200px;
+  margin: 1rem auto;
+}

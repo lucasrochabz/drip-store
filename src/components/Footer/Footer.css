@@ -1,0 +1,33 @@
+.footer-bg {
+  background-color: #333;
+  color: #fff;
+  padding: 2rem;
+}
+
+.footer-container {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.slogan {
+  width: 350px;
+}
+
+.contato-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-list .header-list {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.nav-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  width: 200px;
+}
