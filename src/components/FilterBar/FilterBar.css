@@ -1,0 +1,12 @@
+.filter-bar-container {
+  background-color: tomato;
+  display: inline-block;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.filter-form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
